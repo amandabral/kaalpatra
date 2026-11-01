@@ -1,0 +1,50 @@
+{
+  "viceroys_pre_1947": [
+    { "name": "Lord Reading", "start": "1921-04-02", "end": "1926-04-03" },
+    { "name": "Lord Irwin", "start": "1926-04-03", "end": "1931-04-18" },
+    { "name": "Lord Willingdon", "start": "1931-04-18", "end": "1936-04-18" },
+    { "name": "Marquess of Linlithgow", "start": "1936-04-18", "end": "1943-10-01" },
+    { "name": "Lord Wavell", "start": "1943-10-01", "end": "1947-02-21" },
+    { "name": "Lord Mountbatten", "start": "1947-02-21", "end": "1947-08-15" }
+  ],
+  "prime_ministers": [
+    { "name": "Jawaharlal Nehru", "party": "Indian National Congress", "start": "1947-08-15", "end": "1964-05-27" },
+    { "name": "Gulzarilal Nanda (Acting)", "party": "Indian National Congress", "start": "1964-05-27", "end": "1964-06-09" },
+    { "name": "Lal Bahadur Shastri", "party": "Indian National Congress", "start": "1964-06-09", "end": "1966-01-11" },
+    { "name": "Gulzarilal Nanda (Acting)", "party": "Indian National Congress", "start": "1966-01-11", "end": "1966-01-24" },
+    { "name": "Indira Gandhi", "party": "Indian National Congress", "start": "1966-01-24", "end": "1977-03-24" },
+    { "name": "Morarji Desai", "party": "Janata Party", "start": "1977-03-24", "end": "1979-07-28" },
+    { "name": "Charan Singh", "party": "Janata Party (Secular)", "start": "1979-07-28", "end": "1980-01-14" },
+    { "name": "Indira Gandhi", "party": "Indian National Congress (I)", "start": "1980-01-14", "end": "1984-10-31" },
+    { "name": "Rajiv Gandhi", "party": "Indian National Congress (I)", "start": "1984-10-31", "end": "1989-12-02" },
+    { "name": "V. P. Singh", "party": "Janata Dal", "start": "1989-12-02", "end": "1990-11-10" },
+    { "name": "Chandra Shekhar", "party": "Samajwadi Janata Party", "start": "1990-11-10", "end": "1991-06-21" },
+    { "name": "P. V. Narasimha Rao", "party": "Indian National Congress", "start": "1991-06-21", "end": "1996-05-16" },
+    { "name": "Atal Bihari Vajpayee", "party": "Bharatiya Janata Party", "start": "1996-05-16", "end": "1996-06-01" },
+    { "name": "H. D. Deve Gowda", "party": "Janata Dal", "start": "1996-06-01", "end": "1997-04-21" },
+    { "name": "I. K. Gujral", "party": "Janata Dal", "start": "1997-04-21", "end": "1998-03-19" },
+    { "name": "Atal Bihari Vajpayee", "party": "Bharatiya Janata Party", "start": "1998-03-19", "end": "2004-05-22" },
+    { "name": "Manmohan Singh", "party": "Indian National Congress", "start": "2004-05-22", "end": "2014-05-26" },
+    { "name": "Narendra Modi", "party": "Bharatiya Janata Party", "start": "2014-05-26", "end": "2030-12-31" }
+  ],
+  "presidents": [
+    { "name": "Dr. Rajendra Prasad", "start": "1950-01-26", "end": "1962-05-13" },
+    { "name": "Dr. Sarvepalli Radhakrishnan", "start": "1962-05-13", "end": "1967-05-13" },
+    { "name": "Dr. Zakir Husain", "start": "1967-05-13", "end": "1969-05-03" },
+    { "name": "V. V. Giri (Acting)", "start": "1969-05-03", "end": "1969-07-20" },
+    { "name": "Mohammad Hidayatullah (Acting)", "start": "1969-07-20", "end": "1969-08-24" },
+    { "name": "V. V. Giri", "start": "1969-08-24", "end": "1974-08-24" },
+    { "name": "Fakhruddin Ali Ahmed", "start": "1974-08-24", "end": "1977-02-11" },
+    { "name": "B. D. Jatti (Acting)", "start": "1977-02-11", "end": "1977-07-25" },
+    { "name": "Neelam Sanjiva Reddy", "start": "1977-07-25", "end": "1982-07-25" },
+    { "name": "Giani Zail Singh", "start": "1982-07-25", "end": "1987-07-25" },
+    { "name": "R. Venkataraman", "start": "1987-07-25", "end": "1992-07-25" },
+    { "name": "Dr. Shankar Dayal Sharma", "start": "1992-07-25", "end": "1997-07-25" },
+    { "name": "K. R. Narayanan", "start": "1997-07-25", "end": "2002-07-25" },
+    { "name": "Dr. A. P. J. Abdul Kalam", "start": "2002-07-25", "end": "2007-07-25" },
+    { "name": "Pratibha Patil", "start": "2007-07-25", "end": "2012-07-25" },
+    { "name": "Pranab Mukherjee", "start": "2012-07-25", "end": "2017-07-25" },
+    { "name": "Ram Nath Kovind", "start": "2017-07-25", "end": "2022-07-25" },
+    { "name": "Droupadi Murmu", "start": "2022-07-25", "end": "2030-12-31" }
+  ]
+}
