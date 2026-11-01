@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: kaalpatra_db
+    restart: always
+    environment:
+      POSTGRES_DB: kaalpatra_db
+      POSTGRES_USER: kaalpatra_user
+      POSTGRES_PASSWORD: kaalpatra_secret_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  backend:
+    build: ./backend
+    container_name: kaalpatra_backend
+    restart: on-failure
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    environment:
+      - DEBUG=1
+      - DB_NAME=kaalpatra_db
+      - DB_USER=kaalpatra_user
+      - DB_PASSWORD=kaalpatra_secret_password
+      - DB_HOST=db
+      - DB_PORT=5432
+    depends_on:
+      - db
+
+volumes:
+  postgres_data:
