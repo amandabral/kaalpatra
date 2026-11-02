@@ -1,0 +1,23 @@
+{
+  "benchmarks": [
+    { "year": 1925, "gold_10g": 18.75, "usd_inr": 3.30, "petrol_litre": 0.20, "cinema_ticket": 0.10, "salary_clerk": "₹15/month" },
+    { "year": 1930, "gold_10g": 18.05, "usd_inr": 3.30, "petrol_litre": 0.22, "cinema_ticket": 0.12, "salary_clerk": "₹20/month" },
+    { "year": 1940, "gold_10g": 36.00, "usd_inr": 3.30, "petrol_litre": 0.25, "cinema_ticket": 0.15, "salary_clerk": "₹35/month" },
+    { "year": 1947, "gold_10g": 88.62, "usd_inr": 3.30, "petrol_litre": 0.27, "cinema_ticket": 0.25, "salary_clerk": "₹50/month" },
+    { "year": 1950, "gold_10g": 99.00, "usd_inr": 4.76, "petrol_litre": 0.35, "cinema_ticket": 0.40, "salary_clerk": "₹75/month" },
+    { "year": 1960, "gold_10g": 111.00, "usd_inr": 4.76, "petrol_litre": 0.55, "cinema_ticket": 0.60, "salary_clerk": "₹120/month" },
+    { "year": 1966, "gold_10g": 137.00, "usd_inr": 7.50, "petrol_litre": 0.80, "cinema_ticket": 0.90, "salary_clerk": "₹180/month" },
+    { "year": 1970, "gold_10g": 184.00, "usd_inr": 7.50, "petrol_litre": 1.15, "cinema_ticket": 1.25, "salary_clerk": "₹250/month" },
+    { "year": 1975, "gold_10g": 540.00, "usd_inr": 8.38, "petrol_litre": 3.25, "cinema_ticket": 2.00, "salary_clerk": "₹400/month" },
+    { "year": 1980, "gold_10g": 1330.00, "usd_inr": 7.86, "petrol_litre": 5.10, "cinema_ticket": 3.00, "salary_clerk": "₹700/month" },
+    { "year": 1985, "gold_10g": 2140.00, "usd_inr": 12.38, "petrol_litre": 7.40, "cinema_ticket": 4.50, "salary_clerk": "₹1,200/month" },
+    { "year": 1991, "gold_10g": 3466.00, "usd_inr": 22.74, "petrol_litre": 14.50, "cinema_ticket": 8.00, "salary_clerk": "₹2,200/month" },
+    { "year": 1995, "gold_10g": 4680.00, "usd_inr": 32.43, "petrol_litre": 18.00, "cinema_ticket": 15.00, "salary_clerk": "₹3,500/month" },
+    { "year": 2000, "gold_10g": 4400.00, "usd_inr": 44.94, "petrol_litre": 28.50, "cinema_ticket": 35.00, "salary_clerk": "₹6,000/month" },
+    { "year": 2005, "gold_10g": 7000.00, "usd_inr": 44.10, "petrol_litre": 40.50, "cinema_ticket": 60.00, "salary_clerk": "₹10,000/month" },
+    { "year": 2010, "gold_10g": 18500.00, "usd_inr": 45.73, "petrol_litre": 51.50, "cinema_ticket": 100.00, "salary_clerk": "₹18,000/month" },
+    { "year": 2015, "gold_10g": 26343.00, "usd_inr": 64.15, "petrol_litre": 61.20, "cinema_ticket": 150.00, "salary_clerk": "₹28,000/month" },
+    { "year": 2020, "gold_10g": 48651.00, "usd_inr": 74.13, "petrol_litre": 80.40, "cinema_ticket": 200.00, "salary_clerk": "₹38,000/month" },
+    { "year": 2024, "gold_10g": 78000.00, "usd_inr": 83.50, "petrol_litre": 96.72, "cinema_ticket": 250.00, "salary_clerk": "₹45,000/month" }
+  ]
+}

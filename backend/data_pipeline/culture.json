@@ -1,0 +1,74 @@
+{
+  "eras": [
+    {
+      "start_year": 1925, "end_year": 1930,
+      "badge": "The Silent Cinema & Gramophone Era",
+      "top_movie": "Raja Harishchandra / Silent Classics",
+      "hit_song": "Classical Thumri & Gramophone records",
+      "lifestyle": "Postcards, steam trains, radio broadcasts from Bombay Presidency Radio Club."
+    },
+    {
+      "start_year": 1931, "end_year": 1946,
+      "badge": "Dawn of Talkies & Pre-Independence Melodies",
+      "top_movie": "Alam Ara (1931) / Kismet (1943)",
+      "hit_song": "De De Khuda Ke Naam Pe (W.M. Khan) / Door Hato Ae Duniyawalo",
+      "lifestyle": "Prabhat Film Co, New Theatres Calcutta, live theatre, freedom struggle rallies."
+    },
+    {
+      "start_year": 1947, "end_year": 1959,
+      "badge": "The Golden Age of Indian Cinema",
+      "top_movie": "Mother India (1957) / Awaara (1951) / Pyaasa",
+      "hit_song": "Awaara Hoon (Mukesh) / Pyaar Hua Iqraar Hua (Manna Dey, Lata)",
+      "lifestyle": "Binaca Geetmala begins on Radio Ceylon (Ameen Sayani), Ambassador cars, Five-Year Plans."
+    },
+    {
+      "start_year": 1960, "end_year": 1969,
+      "badge": "The Eastman Color Romance Wave",
+      "top_movie": "Mughal-e-Azam (1960) / Sangam (1964) / Aradhana (1969)",
+      "hit_song": "Mere Sapnon Ki Rani (Kishore Kumar) / Pyar Kiya To Darna Kya",
+      "lifestyle": "Shammi Kapoor dance revolution, Murphy radios, Binaca toothpaste contests."
+    },
+    {
+      "start_year": 1970, "end_year": 1979,
+      "badge": "The Angry Young Man & Vinyl Era",
+      "top_movie": "Sholay (1975) / Deewaar / Bobby (1973)",
+      "hit_song": "Yeh Dosti Hum Nahi Todenge / Dum Maro Dum (Asha Bhosle)",
+      "lifestyle": "Bell-bottoms, Gold Spot, Campa Cola, Philips record players, Sunday Doordarshan movie."
+    },
+    {
+      "start_year": 1980, "end_year": 1989,
+      "badge": "The Cassette Revolution & Doordarshan Golden Age",
+      "top_movie": "Coolie (1983) / Kranti / Qayamat Se Qayamat Tak (1988)",
+      "hit_song": "Papa Kehte Hain (Udit Narayan) / Disco Deewane (Nazia Hassan)",
+      "lifestyle": "T-Series audio cassettes, Bajaj Chetak scooter, Hum Log, Buniyaad, Ramanand Sagar's Ramayan."
+    },
+    {
+      "start_year": 1990, "end_year": 1999,
+      "badge": "The 90s Indipop, Cable TV & Romance Explosion",
+      "top_movie": "Dilwale Dulhania Le Jayenge (1995) / Hum Aapke Hain Koun..! (1994)",
+      "hit_song": "Tujhe Dekha Toh Yeh Jaana Sanam / Made in India (Alisha Chinai)",
+      "lifestyle": "MTV & Channel V, Maruti 800, Walkmans, Reynolds 045 pens, dial-up internet cafes."
+    },
+    {
+      "start_year": 2000, "end_year": 2009,
+      "badge": "The Multiplex, Orkut & Millennial Boom",
+      "top_movie": "Kabhi Khushi Kabhie Gham (2001) / Lagaan / 3 Idiots (2009)",
+      "hit_song": "Kal Ho Naa Ho (Sonu Nigam) / Mitwa / Jai Ho (A.R. Rahman)",
+      "lifestyle": "Nokia 3310 & 1100, iPods, Orkut scraps, Cyber cafes, Reliance CDMA, 2007 T20 World Cup."
+    },
+    {
+      "start_year": 2010, "end_year": 2019,
+      "badge": "The 4G, Smartphone & Pan-India Cinema Wave",
+      "top_movie": "Dangal (2016) / Baahubali 2 (2017) / Chennai Express",
+      "hit_song": "Tum Hi Ho (Arijit Singh) / Why This Kolaveri Di",
+      "lifestyle": "Jio 4G revolution, WhatsApp forwards, Flipkart/Amazon, IPL frenzy, 2011 World Cup victory."
+    },
+    {
+      "start_year": 2020, "end_year": 2026,
+      "badge": "The Streaming & UPI Digital India Era",
+      "top_movie": "RRR (2022) / Jawan (2023) / Stree 2 (2024)",
+      "hit_song": "Naatu Naatu (M.M. Keeravani) / Kesariya / Chaleya",
+      "lifestyle": "UPI QR codes everywhere, OTT binge-watching, Instagram Reels, Zepto/Blinkit 10-min delivery."
+    }
+  ]
+}

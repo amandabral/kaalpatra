@@ -1,0 +1,122 @@
+[
+  {
+    "date": "1947-08-15",
+    "title": "Indian Independence & Dawn of Freedom",
+    "description": "At the stroke of midnight, India gains independence from British rule. Jawaharlal Nehru delivers his historic 'Tryst with Destiny' speech.",
+    "category": "POLITICS"
+  },
+  {
+    "date": "1950-01-26",
+    "title": "Constitution of India Comes into Effect",
+    "description": "India officially becomes a Sovereign Democratic Republic. Dr. Rajendra Prasad takes oath as the first President of India.",
+    "category": "POLITICS"
+  },
+  {
+    "date": "1965-09-23",
+    "title": "Ceasefire in the 1965 Indo-Pak War",
+    "description": "UN-mandated ceasefire ends the second major war between India and Pakistan. Prime Minister Lal Bahadur Shastri's 'Jai Jawan Jai Kisan' slogan defines the era.",
+    "category": "WAR_PEACE"
+  },
+  {
+    "date": "1971-12-16",
+    "title": "Vijay Diwas: Bangladesh Liberation War Victory",
+    "description": "Over 93,000 Pakistani troops surrender unconditionally in Dhaka, leading to the creation of Bangladesh and a historic Indian military victory.",
+    "category": "WAR_PEACE"
+  },
+  {
+    "date": "1974-05-18",
+    "title": "Operation Smiling Buddha (Pokhran-I)",
+    "description": "India successfully conducts its first peaceful nuclear test at Pokhran, Rajasthan, becoming the sixth nation in the world to master nuclear technology.",
+    "category": "SCIENCE"
+  },
+  {
+    "date": "1975-04-19",
+    "title": "Aryabhata: India's First Satellite Launched",
+    "description": "ISRO launches its maiden satellite 'Aryabhata', built indigenously under Dr. U.R. Rao, marking India's entry into the space age.",
+    "category": "SCIENCE"
+  },
+  {
+    "date": "1975-06-25",
+    "title": "Declaration of National Emergency",
+    "description": "President Fakhruddin Ali Ahmed declares an Internal Emergency across India on the recommendation of Prime Minister Indira Gandhi.",
+    "category": "POLITICS"
+  },
+  {
+    "date": "1983-06-25",
+    "title": "Kapil Dev's India Wins the Cricket World Cup",
+    "description": "Underdog India stuns two-time defending champion West Indies at Lord's, London, winning the Prudential World Cup and sparking a cricket fever across the subcontinent.",
+    "category": "SPORTS"
+  },
+  {
+    "date": "1984-04-03",
+    "title": "Rakesh Sharma Becomes First Indian in Space",
+    "description": "Wing Commander Rakesh Sharma launches aboard Soyuz T-11. When PM Indira Gandhi asks how India looks from space, he famously replies: 'Saare Jahan Se Achha'.",
+    "category": "SCIENCE"
+  },
+  {
+    "date": "1991-07-24",
+    "title": "The Historic 1991 Liberalization Budget",
+    "description": "Finance Minister Dr. Manmohan Singh unveils India's historic LPG (Liberalisation, Privatisation, Globalisation) reforms, dismantling the Licence Raj.",
+    "category": "POLITICS"
+  },
+  {
+    "date": "1998-05-11",
+    "title": "National Technology Day: Pokhran-II Nuclear Tests",
+    "description": "Under Operation Shakti and the leadership of PM Atal Bihari Vajpayee and Dr. APJ Abdul Kalam, India conducts five underground nuclear tests at Pokhran.",
+    "category": "SCIENCE"
+  },
+  {
+    "date": "1999-07-26",
+    "title": "Kargil Vijay Diwas: Operation Vijay Concludes",
+    "description": "The Indian Armed Forces successfully evict Pakistani infiltrators and recapture high-altitude posts in Kargil and Dras.",
+    "category": "WAR_PEACE"
+  },
+  {
+    "date": "2007-09-24",
+    "title": "India Wins Inaugural ICC T20 World Cup",
+    "description": "Young captain MS Dhoni leads India to victory against Pakistan in a dramatic final in Johannesburg, sparking the global revolution of T20 cricket.",
+    "category": "SPORTS"
+  },
+  {
+    "date": "2008-08-11",
+    "title": "Abhinav Bindra Wins India's First Individual Olympic Gold",
+    "description": "Shooter Abhinav Bindra captures gold in the Men's 10m Air Rifle event at the Beijing Olympics, ending India's 108-year wait for an individual gold medal.",
+    "category": "SPORTS"
+  },
+  {
+    "date": "2008-10-22",
+    "title": "Chandrayaan-1 Launches: Water on the Moon Discovered",
+    "description": "ISRO launches its first lunar mission, which subsequently confirms the presence of water molecules on the Moon's surface.",
+    "category": "SCIENCE"
+  },
+  {
+    "date": "2011-04-02",
+    "title": "India Lifts ICC Cricket World Cup at Wankhede",
+    "description": "MS Dhoni hits the winning six at Mumbai's Wankhede Stadium as India defeats Sri Lanka to win the World Cup after 28 years.",
+    "category": "SPORTS"
+  },
+  {
+    "date": "2014-09-24",
+    "title": "Mangalyaan (Mars Orbiter Mission) Enters Mars Orbit",
+    "description": "ISRO creates world history by becoming the first space agency to reach Martian orbit on its very first attempt, and at a fraction of NASA's budget.",
+    "category": "SCIENCE"
+  },
+  {
+    "date": "2021-08-07",
+    "title": "Neeraj Chopra Wins Historic Track & Field Olympic Gold",
+    "description": "Javelin thrower Neeraj Chopra hurls 87.58m at Tokyo 2020 Olympics to become the first Indian ever to win an Olympic track-and-field gold.",
+    "category": "SPORTS"
+  },
+  {
+    "date": "2023-08-23",
+    "title": "Chandrayaan-3 Lands on Lunar South Pole",
+    "description": "India's Vikram lander makes a soft touchdown near the Moon's South Pole, making India the first nation in history to land near the lunar south pole.",
+    "category": "SCIENCE"
+  },
+  {
+    "date": "2024-06-29",
+    "title": "India Wins ICC Men's T20 World Cup in Barbados",
+    "description": "Rohit Sharma's Men in Blue defeat South Africa in a thrilling final in Bridgetown, Barbados, to claim their second T20 World Cup trophy.",
+    "category": "SPORTS"
+  }
+]
